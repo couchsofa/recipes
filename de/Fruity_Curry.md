@@ -53,10 +53,13 @@ Zubereitung
 2. Koriander und Minze grob hacken, Limetten darüber auspressen und zum Joghurt geben.
 3. In den Kühlschrank stellen und ziehen lassen.
 
+
 1. Reis garen und sehr fein gehackte Ingwer und Frühlingszwiebeln hinzugeben.
 2. Für weitere 10 Minuten ziehen lassen.
 
+
 1. Mandarin Orangen, (Mango Pulp) und Ananas im Mixer/Blender pürieren. 
+
 
 1. Zwiebeln, Tomaten, (Knoblauch), stückeln und in Öl oder Butter anbraten.
 2. Den pürierten Pulp hinzugeben und aufkochen lassen.
