@@ -18,7 +18,7 @@ Gewürze
 -------
 
 * Fermentierter Pfeffer
-* Geräuchterter Pfeffer
+* Geräucherter Pfeffer
 * Piment
 * Muskatnuss
 * Salz
