@@ -79,7 +79,7 @@ Zubereitung
 
 1. Den frischen Knoblauch schälen und mit einem Messerrücken zerdrücken.
 2. Ingwer in ca. 5mm große Stücke schneiden.
-3. Knoblauch und Ingwer in einem großen Topf mit 100 mL Sesam Öl bei mittlerer Hitze anbraten.
+3. Knoblauch und Ingwer in einem großen Topf mit 50 mL Sesam Öl bei mittlerer Hitze anbraten.
 4. Nach 2 Minuten Butter dazugeben und weiter braten bis der Knoblauch braun wird.
 5. Mit 1/2 L Sojasauce und 1/2 L Reisessig ablöschen, Miso Paste dazugeben und aufkochen bis sich das Miso aufgelöst hat.
 6. Die Knollen der Lauchzwiebeln halbieren und zusammen mit 3 L Wasser, den Pilzstämmen, Limetten, oberen Teil der Blätter des Lauchs, den Wurzelansatz des Lauchs, Anfänge des Spargel, Gemüsebrühe, Koriandersamen, Tasmanischen Pfeffer, Szechuan Pfeffer und Kardamom Kapseln (gehackt) hinzugeben. 
@@ -88,7 +88,7 @@ Zubereitung
 
 #
 
-1. 100 mL Sesam Öl in einer Pfanne auf höchster Stufe erhitzen.
+1. 50 mL Sesam Öl in einer Pfanne auf höchster Stufe erhitzen.
 2. Spargel und Pilze kurz anbraten.
 3. Mit einem Schuss Sojasauce ablöschen, von der Hitze nehmen, mit einem Deckel bedecken und garen lassen.
 
@@ -99,6 +99,10 @@ Zubereitung
 3. Mit Sprossen, Minze, Koriander, Spargel, Pilzen, Frühlingszwiebeln und Lauch garnieren.
 4. Gerösteten Sesamn darüber sprinkeln, Srirache Sauce und Knoblauch Öl hinzugeben.
 
+# Alternative Beilagen
+
+1. Fenchel in Streifen schneiden und mit geräuchertem Speck bei 180°C Umluft in den Ofen.
+2. Den Speck nach 8 min aus dem Ofen nehmen und den Fenchel weitere 10 min garen lassen.
 
 ***
 
@@ -106,6 +110,7 @@ Anmerkungen
 -----------
 
 * Das Knoblauch Öl kann man auch mit Ingwer und ohne Frühlingszwiebeln herstellen.
+
 
 Links
 -----------
