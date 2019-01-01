@@ -38,3 +38,5 @@ Anmerkungen
 -----------
 
 Funktioniert auch in "normalen" Gläsern.
+
+By https://twitter.com/nett_
