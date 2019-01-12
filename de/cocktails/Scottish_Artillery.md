@@ -12,7 +12,7 @@ Werkzeug
 Zutaten
 -------
 
-* Laphroaig 1ß
+* Laphroaig 10
 * Simple Sirup
 * Antica Formula Wermut
 * Orange Bitters
