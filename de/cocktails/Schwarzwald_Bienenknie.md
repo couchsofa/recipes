@@ -38,7 +38,6 @@ Zubereitung
 
 Anmerkungen
 -----------
- geladen wie ein Bordgeschütz und dichter als der Nebel von Kap Hoorn.
 
 Links
 -----------
