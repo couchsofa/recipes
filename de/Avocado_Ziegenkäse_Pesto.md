@@ -31,18 +31,18 @@ Zutaten
 * Mandelsplitter oder Pinienkerne
 * 1 Limette
 * Optional: Nudelwasser
-* Optoinal: Petersilie
+* Optional: Petersilie
 
 ***
 
 Zubereitung
 -----------
 
-1. Acocado, Ziegenfrischkäse und Oliven pürieren.
+1. Avocado, Ziegenfrischkäse und Oliven pürieren.
 2. Mandelsplitter oder Pinienkerne in einer Pfanne rösten, abkühlen lassen und untermengen.
-3. Schnittlauch, Knoblauch und optional Petersielie fein hacken und ebenfalls untermengen.
+3. Schnittlauch, Knoblauch und optional Petersilie fein hacken und ebenfalls untermengen.
 4. Den Saft der Limette dazugeben.
-5. Um die Konsinstenz anzupassen kann Nudelwasser hinzugegeben werden.
+5. Um die Konsistenz anzupassen kann Nudelwasser hinzugegeben werden.
 6. Mit Salz und Pfeffer abschmecken und mit Basilikum garnieren. 
 
 ***
